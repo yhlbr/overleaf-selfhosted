@@ -1,6 +1,5 @@
 services:
     sharelatex:
-        platform: linux/amd64
         restart: always
         # Server Pro users:
         # image: quay.io/sharelatex/sharelatex-pro
